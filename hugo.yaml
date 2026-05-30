@@ -2,4 +2,4 @@ caches:
   images:
     dir: :cacheDir/images
 
-theme: ananke
+theme: PaperMod
