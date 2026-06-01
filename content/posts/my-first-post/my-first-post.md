@@ -66,3 +66,13 @@ The following research confirms the importance of active learning.
 [https://learningnews.com/news/learning-and-performance-institute/2024/impact-study-reveals-active-learning-boosts-engagement-and-knowledge-retention](https://learningnews.com/news/learning-and-performance-institute/2024/impact-study-reveals-active-learning-boosts-engagement-and-knowledge-retention)
 
 In this case, the effort required to write this post leads to deeper engagement with the topic. Using my own words helps me create connections to my existing knowledge, often on a subconscious level. Basically, this creates a win–win situation. Since writing a post is a slower process, it gives my brain time to form the necessary connections between ideas. The time itself is not important, but the effort is a [desirabled dificulty](https://en.wikipedia.org/wiki/Desirable_difficulty).
+
+## Identify knowledge gaps
+While writing this post, I review and reread my work several times. Whenever I find a topic difficult to explain, I return to the basics and revisit the original sources. I have learned that if I struggle to explain something clearly, it often means that I do not yet fully understand it.
+
+At this stage, it is very beneficial to use an LLM tool to challenge yourself. The entire post can be copied and pasted into the LLM, and you can ask it to act as an opponent, pointing out weaknesses in the explanation and challenging your assumptions.
+
+Again, it's a win-win situation because my knowledge gaps become visible to me. This motivates me to fill those gaps. Learning is an iterative process, so this is very beneficial.
+
+## Simplify
+In this case it mostly means I reread the whole story and fill it with my real word examples. It also forces me to reconsider the topic from different angles. I usually try to simplify things, but in this context, "simplify" means organizing new information in a way that connects it to my existing knowledge.
