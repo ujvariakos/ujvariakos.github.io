@@ -1,6 +1,6 @@
 ---
 title: 'My First Post'
-date: '2026-05-30T11:08:40+02:00'
+date: '2026-06-01T11:08:40+02:00'
 tags: []
 featured_image: ""
 description: ""
@@ -76,3 +76,6 @@ Again, it's a win-win situation because my knowledge gaps become visible to me. 
 
 ## Simplify
 In this case it mostly means I reread the whole story and fill it with my real word examples. It also forces me to reconsider the topic from different angles. I usually try to simplify things, but in this context, "simplify" means organizing new information in a way that connects it to my existing knowledge.
+
+# Closing thoughts
+For me, these posts are not the final product of learning but part of the learning process itself. Every topic I write about is an opportunity to test my understanding, discover knowledge gaps, and strengthen my ability to communicate complex ideas clearly. This first post marks the beginning of that journey, and I am curious to see where it leads.
