@@ -15,7 +15,7 @@ For user interaction, we have built-in functionality in coding agents.
 For example:
 - Cursor — AskQuestion tool
 - Claude Code — AskUserQuestion tool
-...
+- ...
 
 # Solutions
 
