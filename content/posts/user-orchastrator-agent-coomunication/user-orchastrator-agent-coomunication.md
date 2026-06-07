@@ -1,5 +1,5 @@
 ---
-title: 'User-orchastrator-agent communication'
+title: 'User-orchastrator-agent communication (In progress)'
 date: '2026-06-06T11:08:40+02:00'
 tags: []
 featured_image: ""
@@ -13,13 +13,45 @@ An agent is typically designed to accomplish a specific task or objective, rathe
 
 For user interaction, we have built-in functionality in coding agents.
 For example:
-Cursor — AskQuestion tool
-Claude Code — AskUserQuestion tool
+- Cursor — AskQuestion tool
+- Claude Code — AskUserQuestion tool
 ...
 
 # Solutions
 
-## Bubble-up/exception pattern
+## Bubble-up pattern
+When a subagent encounters a situation it cannot resolve on its own, it should **propagate the problem up the hierarchy** rather than hallucinate an answer, fail silently, or make a risky assumption.
+
+Tipical workflow
+
+
+```goat
++------------------+
+| Local handling   |
++--------+---------+
+         |
+         v unresolved
++------------------+
+| Escalate to      |
+| orchestrator     |
++--------+---------+
+         |
+         v
++------------------+
+| Orchestrator     |
+| decides          |
++--------+---------+
+         |
+         v needs user input
++------------------+
+| Bubble up to     |
+| user             |
++------------------+
+```
+In a complex agentic system, there can be additional orchastrator and subagent layers.
+
+
+[SHIELDA: Structured Handling of Exceptions in LLM-Driven Agentic Workflows](https://arxiv.org/abs/2508.07935)
 
 ## Message Bus
 
